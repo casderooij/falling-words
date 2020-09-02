@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'happy-times';
+  src: url(../../fonts/happy-times-regular.woff) format('woff');
+  src: url(../../fonts/happy-times-regular.woff2) format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: 'happy-times';
+}
